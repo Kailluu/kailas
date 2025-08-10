@@ -2,7 +2,7 @@
 
 
 # [Project Name] 🎯
-Useless home greeting device
+USELESS ROOM GREETING DEVICE
 
 ## Basic Details
 ### Team Name: [NEX]
@@ -28,14 +28,14 @@ This useless greeting device works when a person enters ,detecting the movement 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [ C++
-SoftwareSerial.h
-DFRobotDFPlayerMini.h
+- [ C++,
+SoftwareSerial.h,
+DFRobotDFPlayerMini.h,
 arduinoIDE
 ]
 
 For Hardware:
-- [Arduino uno
+- [Arduino uno,
 mp3 module, amplifier, speaker]
 
 
